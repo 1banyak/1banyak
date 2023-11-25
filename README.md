@@ -10,5 +10,7 @@ klik1 = """document.querySelector("#identifierNext > div > button > span").click
 
 KodeJS(klik1) #eksekusi kode JavaScript
 
+nganu1.Gae() #print source code
+
 tempat download driver.
 https://drive.google.com/file/d/1B1txVVgYCSriRkcoo9ubVPkIX7diNiNx/view?usp=drive_link
