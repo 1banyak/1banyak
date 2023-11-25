@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @1banyak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+contoh kode
 
-<!---
-1banyak/1banyak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+import nganu1
+nganu1.run("tes.exe") #membuka aplikasi
+nganu1.BukaUrl("https://google.com") # membuka url
+klik1 = """document.querySelector("#identifierNext > div > button > span").click();""" #kode JavaScript
+KodeJS(klik1) #eksekusi kode JavaScript
+
+tempat download driver.
+https://drive.google.com/file/d/1B1txVVgYCSriRkcoo9ubVPkIX7diNiNx/view?usp=drive_link
